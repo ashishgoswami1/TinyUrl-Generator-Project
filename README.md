@@ -1,9 +1,11 @@
-<h1 align="center">🔗 TinyURL Generator</h1>
-<h4 align="center">A C++ based URL shortener project using DSA concepts and hash-based mapping</h4>
 <p align="center">
   <a href="https://github.com/ashishgoswami1/TinyUrl-Generator-Project">
+    🔗 View TinyURL Generator Project on GitHub
   </a>
 </p>
+
+<h1 align="center">🔗 TinyURL Generator</h1>
+<h4 align="center">A C++ based URL shortener project using DSA concepts and hash-based mapping</h4>
 
 ---
 
