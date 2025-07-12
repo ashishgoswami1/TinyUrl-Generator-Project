@@ -64,9 +64,10 @@ This folder is meant for frontend development. You can:
 
 ---
 
-## 🎬 Demo Preview (GIF)
+## 🎬 
 
-![Demo in Action](https://media.giphy.com/media/IeRdg7vkgDBk9R6v6P/giphy.gif)
+![Cartoon Love GIF by Scaler (1)](https://github.com/user-attachments/assets/9fbddaa0-998b-48d0-a3eb-3e486d054e4e)
+
 
 ---
 
