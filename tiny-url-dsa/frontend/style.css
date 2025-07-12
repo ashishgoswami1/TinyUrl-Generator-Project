@@ -1,0 +1,43 @@
+body {
+  background-color: #3c6e97;
+  background-image: url('logo.png'); /* 👈 Background logo added */
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.box {
+  background-color: rgb(41, 83, 142);
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgb(82, 59, 96);
+  text-align: center;
+  width: 800px;
+}
+
+input {
+  padding: 8px;
+  width: 90%;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #daa44d;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#output {
+  margin-top: 10px;
+  font-weight: bold;
+  color: green;
+}

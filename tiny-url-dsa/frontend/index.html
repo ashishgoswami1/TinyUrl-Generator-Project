@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tiny URL</title>
+  <link rel="stylesheet" href="style.css">
+  
+  <!-- ✅ Google Font: Comfortaa -->
+  <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="box">
+    <h2>Tiny URL Generator</h2>
+    <input type="text" id="longUrl" placeholder="Enter Long URL">
+    <button onclick="shortenUrl()">Shorten</button>
+    <p id="output"></p>
+  </div>
+
+  <!-- ✅ New Script with Random Short URL -->
+  <script>
+    function generateCode(length) {
+      const chars = "abcdefghijklmnopqrstuvwxyz0123456789";
+      let code = "";
+      for (let i = 0; i < length; i++) {
+        code += chars[Math.floor(Math.random() * chars.length)];
+      }
+      return code;
+    }
+
+    function shortenUrl() {
+      const longUrl = document.getElementById("longUrl").value;
+      if (longUrl.trim() === "") {
+        document.getElementById("output").innerText = "Please enter a URL.";
+      } else {
+        const shortCode = generateCode(6); // 6-character random code
+        const shortUrl = "tiny.cc/" + shortCode;
+        document.getElementById("output").innerText = "Short URL: " + shortUrl;
+      }
+    }
+  </script>
+</body>
+</html>
