@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="logo/ashish-logo.png" width="400" alt="Ashish's TinyURL Generator Logo">
+  <img src="![Uploading ashish-logo.png.png…]()
+" width="400" alt="Ashish's TinyURL Generator Logo">
 </p>
 
 
