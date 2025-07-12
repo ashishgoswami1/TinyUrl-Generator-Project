@@ -1,6 +1,8 @@
 <h1 align="center">🔗 TinyURL Generator</h1>
 <h4 align="center">A C++ based URL shortener project using DSA concepts and hash-based mapping</h4>
-
+<p align="center">
+  <alt="TinyURL Generator Logo" />
+</p>
 ---
 
 ## 🧠 Overview
