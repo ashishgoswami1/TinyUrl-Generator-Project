@@ -2,7 +2,6 @@
 <h4 align="center">A C++ based URL shortener project using DSA concepts and hash-based mapping</h4>
 <p align="center">
   <a href="https://github.com/ashishgoswami1/TinyUrl-Generator-Project">
-    <img src="ashish-logo.png" width="300" alt="TinyURL Generator Logo" />
   </a>
 </p>
 
