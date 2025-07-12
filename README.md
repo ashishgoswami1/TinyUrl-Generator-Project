@@ -1,6 +1,5 @@
 *<p align="center">
-  <img src="![21004063](https://github.com/user-attachments/assets/baf4ec56-21aa-446c-bcc6-ce02c70ba5bc)
-" width="400" alt="Ashish's TinyURL Generator Logo">
+  <img src="ashish-log.png" width="400" alt="Ashish's TinyURL Generator Logo">
 </p>
 
 
