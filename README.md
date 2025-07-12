@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">🔗 TinyURL Generator</h1>
+<h1 align="center"> TinyURL Generator</h1>
 <h4 align="center">A C++ based URL shortener project using DSA concepts and hash-based mapping</h4>
 
 ---
@@ -40,8 +40,13 @@ TinyUrl-Generator-project/
 ├── backend/ → C++ logic (main.cpp, tinyurl.exe)
 ├── frontend/ → (Optional UI in HTML/CSS)
 ├── logo.png → <img width="1024" height="1024" alt="ashish-logo png" src="https://github.com/user-attachments/assets/a32ed90f-8c5f-4bee-afd0-8fe2bc2c548d" />
+<p align="center">
+  <a href="https://github.com/ashishgoswami1/TinyUrl-Generator-Project">
+    🔗 View TinyURL Generator Project on GitHub
+  </a>
+</p>
 
-└── README.md → Project documentation (this file)
+└── README.md → Project documentation on <a href="https://github.com/ashishgoswami1/TinyUrl-Generator-Project">
 
 
 ---
