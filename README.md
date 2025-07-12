@@ -1,9 +1,3 @@
-*<p align="center">
-  <img src="ashish-log.png" width="400" alt="Ashish's TinyURL Generator Logo">
-</p>
-
-
-
 <h1 align="center">🔗 TinyURL Generator</h1>
 <h4 align="center">A C++ based URL shortener project using DSA concepts and hash-based mapping</h4>
 
